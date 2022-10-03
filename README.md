@@ -19,7 +19,7 @@ Original sources:
 ## Problems Encountered
 
 - The first and most important one is that if you try to create some sentences before assigning a value to a variable, the compiler will just stop there
-  pretending that it already finished reading all the lines. Generating an error of this nature:
+  pretending that it already finished reading all the lines. Generating an error of this <a href="https://drive.google.com/file/d/1MGsjvuNTH_jp6ydq2M-TCtYqg35YidWI/view?usp=sharing">nature</a>
 
 - I cant tell if there are other mistakes besides this one, because all the tests in the page work just fine except for the ones that casually have the
   case above.
